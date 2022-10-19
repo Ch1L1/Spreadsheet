@@ -1,4 +1,5 @@
 # Basic operations with spreadsheet
+## My first project
 The aim of the project is to create an advanced table processor. You should use dynamic memory allocation.
 Application has to process table data in the file provided via command line argument. Actions will be in command line arguments too. 
 
